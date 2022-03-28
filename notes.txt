@@ -1,0 +1,33 @@
+C:\Type-7> notes.exe
+
+Notes for this small project. Includes to-do's, commentary, hour spent (approximate) and a quest.
+
+notes.exe -hours
+
+[
+	7
+]
+
+notes.exe -info
+[
+	VERSIONS
+	  > cursed:
+			this can be considered an apha version.
+			mockup-grade textures, unrefactored code,
+			not yet full functionality (03/28/2022)
+
+		main:
+			this will be a beta, and in time, stable main
+			version of the game, according to the assignment
+			condtions.
+
+		extended:
+			this will be my own version with added functionality,
+			made mainly for education purposes.
+]
+
+notes.exe -add
+[
+	03/28/2022 @4:47 PM
+	add schemes for created objects (position, for example)
+]
