@@ -5,7 +5,7 @@ Notes for this small project. Includes to-do's, commentary, hour spent (approxim
 notes.exe -hours
 
 [
-	7
+	10
 ]
 
 notes.exe -info
